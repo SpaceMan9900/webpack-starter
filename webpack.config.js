@@ -51,7 +51,7 @@ module.exports = {
 
         new CopyPlugin({
             patterns: [
-                { from: 'src/assets/', to: 'assest/' }
+                { from: 'src/assets/', to: 'assets/' }
             ]
         })
     ]
